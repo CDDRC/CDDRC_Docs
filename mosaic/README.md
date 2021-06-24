@@ -10,11 +10,11 @@
 
 * [Download data](#)
 
-### Tutorials
+## Tutorials
 
 * [Links to Mosaic screen casts](#)
 
-### FAQ
+## FAQ
 
 * [What is Mosaic?](#)
 * [How do I...?](#)
