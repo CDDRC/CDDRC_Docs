@@ -16,7 +16,11 @@
 
 <dl>
   <dt>What is RNASeq</dt>
-  <dd>It's when you sequence RNA, it's really cool you should try it</dd>
+  <dd>
+    It's when you sequence RNA, it's really cool you should try it.
+  </dd>
   <dt>Are you having a go at me?</dt>
-  <dd>Yes!</dd>
+  <dd>
+    Yes!
+  </dd>
 </dl>
