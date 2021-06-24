@@ -1,5 +1,5 @@
 ---
-title: Mosaic Documentation
+title: 'Mosaic Documentation'
 ---
 [CDDRC Docs](../) - Mosaic Documentation
 
