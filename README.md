@@ -1,6 +1,3 @@
-layout: page
-title: "CDDRC Technical Documentation"
-
 # CDDRC Technical Documentation
 
 * [Mosaic](mosaic)
