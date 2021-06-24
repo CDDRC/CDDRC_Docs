@@ -1,9 +1,8 @@
-
 ---
 title: 'CDDRC Technical Documentation'
 ---
 
-# CDDRC Technical Documentation
+This page contains documentation for users of the CDDRC.
 
 * [Mosaic](mosaic)
 * [Data Pipelines](data_pipelines)
