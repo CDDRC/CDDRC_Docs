@@ -1,6 +1,3 @@
----
-title: 'Mosaic Documentation'
----
 [CDDRC Docs](../) - Mosaic Documentation
 
 ## Accounts
