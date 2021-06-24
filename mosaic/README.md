@@ -1,4 +1,4 @@
-[CDDRC Docs](../index.html) - Mosaic Documentation
+[CDDRC Docs](../) - Mosaic Documentation
 
 # Mosaic Documentation
 
