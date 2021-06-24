@@ -1,5 +1,5 @@
-title: CDDRC Technical Documentation
-description: Technical Documentation for the CDDRC
+title: CDDRC Documentation
+
 plugins:
   - jekyll-relative-links
 relative_links:
