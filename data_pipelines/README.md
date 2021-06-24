@@ -2,7 +2,7 @@
 
 ## Pipeline Documentation
 
-* [RNASeq Pipeline](#)
+* [RNASeq Pipeline](data_pipelines/rnaseq_pipeline/)
 * [Single Cell Sequencing Pipeline](#)
 
 ## Pipeline Methods Summaries
