@@ -1,4 +1,4 @@
-[CDDRC Docs](../) - Mosaic Documentation
+[CDDRC Docs](../README.md) - Mosaic Documentation
 
 ## Accounts
 
