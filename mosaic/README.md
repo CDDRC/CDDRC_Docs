@@ -2,19 +2,19 @@
 
 ## Accounts
 
-* [Set up new account]()
-* [Change password]()
-* [Grant data access permissions]()
+* [Set up new account](#)
+* [Change password](#)
+* [Grant data access permissions](#)
 
 ## Data Access
 
-* [Download data]()
+* [Download data](#)
 
 ### Tutorials
 
-* [Links to Mosaic screen casts]()
+* [Links to Mosaic screen casts](#)
 
 ### FAQ
 
-* [What is Mosaic?]()
-* [How do I...?]()
+* [What is Mosaic?](#)
+* [How do I...?](#)
