@@ -1,8 +1,3 @@
----
-type: page
-title: 'CDDRC Technical Documentation'
----
-
 This page contains documentation for users of the CDDRC.
 
 * [Mosaic](mosaic)
