@@ -1,4 +1,4 @@
-# Data Pipeline
+# Data Pipelines
 
 ## Pipeline Documentation
 
