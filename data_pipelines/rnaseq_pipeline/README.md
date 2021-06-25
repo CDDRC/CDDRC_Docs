@@ -1,3 +1,5 @@
+[CDDRC Docs](../../README.md) - [Data Pipelines](../README.md) - RNASeq Pipeline
+
 # RNASeq Pipeline
 
 ## Pipeline Details
