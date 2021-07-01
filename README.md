@@ -4,5 +4,6 @@ This page contains documentation for users of the CDDRC.
 * [Data Pipelines](data_pipelines)
 * [Data Access](data_access)
 * [Analysis Workflows](analysis_workflows)
+* [Analysis Apps](analysis_apps)
 
 
