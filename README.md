@@ -1,4 +1,6 @@
-This page contains documentation for users of the CDDRC.
+The Cardiovascular Developmental Biology Data Resource Center was created to...
+
+This page contains technical documentation for users of the CDDRC.
 
 * [Mosaic](mosaic)
 * [Data Pipelines](data_pipelines)
