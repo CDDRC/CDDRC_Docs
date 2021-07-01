@@ -1,20 +1,20 @@
-[CDDRC Docs](../README.md) - Template Page
+[CDDRC Docs](../README.md) - Analysis Apps
 
-# Title of Page
+# Analysis Apps
 
-## Header 1
-
-* [Link1](#)
-* [Link2](#)
-* [Link3](#)
-
-## Header 2
+## RNASeq Apps
 
 * [Link1](#)
 * [Link2](#)
 * [Link3](#)
 
-## Header 3
+## Single Cell Seq Apps
+
+* [Link1](#)
+* [Link2](#)
+* [Link3](#)
+
+## HiSeq Apps
 
 * [Link1](#)
 * [Link2](#)
