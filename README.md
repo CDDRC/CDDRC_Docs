@@ -11,5 +11,3 @@ This page contains technical documentation for users of the CDDRC.
 * [Analysis Apps](analysis_apps)
 
 
-Here's a new edit!!!
-
