@@ -8,6 +8,7 @@ This page contains technical documentation for users of the CDDRC.
 * [Data Pipelines](data_pipelines)
 * [Data Access](data_access)
 * [Analysis Workflows](analysis_workflows)
+* [FAQ](faqs)
 * [Analysis Apps](analysis_apps)
 
 
