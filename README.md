@@ -8,6 +8,7 @@ The pages below provide technical documentation for users of CDDRC.
 * [Mosaic](mosaic)
 * [Challenge Grants](grants)
 * [Data Pipelines](data_pipelines)
+* [Project Setup](project_setup)
 * [Data Access](data_access)
 * [Analysis Workflows](analysis_workflows)
 * [Legacy Gnomex Data](gnomex)
