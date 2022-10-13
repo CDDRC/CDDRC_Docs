@@ -22,7 +22,7 @@ This [link](https://redcap.link/cddrc) will take you to the current CDDRC Projec
 | Other Experiment Platform |If the above option is 'Other', specify the type here.| | Yes* |
 | Sequence Library Protocol Description | Allowed additional notes for sequence protocol. | Yes | No |
 | Sequence Source | Where your project specific sequence was generated. | Yes | No |
-| Genes of Interest | A comma separated list of specific genes of interest. | Yes | No |
+| Genes of Interest | A **comma separated** list of specific genes of interest. | Gene Set | No |
 | PCR Library Type | If any samples underwent PCR amplification | Yes | No (default: unknown) |
 | Library Kit | Kits and reagents for sequencing methods. | Yes | No |
 | Library Method | Library Method used in experiment. | Yes | No |
@@ -31,12 +31,10 @@ This [link](https://redcap.link/cddrc) will take you to the current CDDRC Projec
 | Submitter First Name | First name of person submitting project request.| Yes | Yes |
 | Submitter Last Name | Last name of person submitting project request.| Yes | Yes |
 | Submitter Email | Email of person submitting project request.| Yes | Yes |
-| Manifest | Downloadable Sample Mainifest template **See below specifications.** | | N/A |
+| Manifest | Downloadable Sample Manifest template **See below specifications.** | | N/A |
 | Manifest Upload | Upload section for completed above manifest. | | Yes |
 
-### Organism selections:
-
-Currently supported organisms.
+### Organism:
 
 | Organism |
 |----------------------------|
@@ -50,11 +48,9 @@ Currently supported organisms.
 | Sheep |
 | Xenopus tropicalis |
 | Zebrafish |
-| *Other* |
+| ***Other*** |
 
-### Reference Selection:
-
-Currently supported genomes.
+### Reference:
 
 | Reference Genome |
 |------------------|
@@ -62,7 +58,7 @@ Currently supported genomes.
 | GRCh38 |
 | GRCz11 |
 | GRCm39. |
-| *unsupported* |
+| ***unsupported*** |
 
 ### Experiment Type Selection:
 
@@ -87,7 +83,7 @@ Currently supported genomes.
 | SNP |
 | Targeted Genomic Resequencing |
 | Transcriptome sequencing |
-| *Other* |
+| ***Other*** |
 
 ### Experiment Platform Selection:
 
@@ -101,7 +97,7 @@ Currently supported genomes.
 | Ion Torrent |
 | Life-SOLiD |
 | Roche-454 |
-| *Other* |
+| ***Other*** |
 
 
 ## Manifest
@@ -110,7 +106,7 @@ Currently available manifest fields.
 
 | Manifest Column Name | Becomes Mosaic Sample Attribute| Required | 
 |----------------------|--------------------------------| ---------|
-| Sample ID  | Yes | Yes |
+| Sample ID  | Yes | **Yes** |
 | Individual ID  | Yes | No |
 | Internal ID | Yes | No |
 | Stage | Yes | No |
@@ -130,7 +126,5 @@ Currently available manifest fields.
 | Analysis Group | Yes | No |
 | Replica Number | Yes | No |
 | Note | Yes | No |
-
-
 
 
