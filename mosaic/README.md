@@ -1,23 +1,23 @@
-[CDDRC Docs](../README.md) - Mosaic Documentation
+[CDDRC Docs](../README.md) - CDDRC Mosaic Documentation
 
-## Getting Started
+## Getting with CDDRC Mosaic Started
 
 * The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup).
-* Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started)] page in the Mosaic documentation.
+* Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started) page in the Mosaic documentation.
 * Finally, you can explore the full set of Mosaic docs at [Frameshift Mosaic documentation server](https://docs.frameshift.io/mosaic.html).
 
-## Accounts
+## CDDRC Mosaic Accounts
 
 * To set up a new account, please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup).
 * To change your CDDRC Mosaic password, navigate to 'Account' (top right corner of page) -> '[User Settings](https://cddrc.utah.edu/#/account/settings)'
 
-## Data Access
+## Data Access on CDDRC Mosaic
 
 * Details on data access are coming soon.  If you have questions in
   the mean time, please don't hesitate to
   [reach out](mailto://cddrc@lists.utah.edu).
 
-## Tutorials
+## Mosaic Tutorials
 
 * Frameshift Genomics provides a full set of
   [video tutorials for Mosaic](https://frameshift.io/tutorials/).  I
