@@ -1,8 +1,8 @@
 [CDDRC Docs](../README.md) - Data Access
 
-# CDDRC Project Creation Documentation.
+# CDDRC Project Creation
 
-To create a project go to
+To create a new project go to
 [RedCap CDDRC project creation page](https://redcap.link/cddrc) and
 fill out the form.  The tables below provide details on each of the
 fields in the project creation form.
@@ -16,7 +16,7 @@ fields in the project creation form.
 | Set project privacy level to protected. | Set to `True` if you do *not* want your project publicly accessible. | | No (default: False) |
 | Lab | Governing lab PI. | Yes | Yes |
 | Institution | Lab and projects originating from this institution. | Yes | Yes |
-| Organism | Organism under study. **[See below selections](#Organism).** | Yes | Yes |
+| Organism | Organism under study. **[See below selections](#organism).** | Yes | Yes |
 | Organism Name | If the above option is 'Other', specify the organism here.| | Yes* |
 | Reference Genome | Organism reference genome **See below selections.** | Yes | Yes |
 | Experiment Type | Experiment methodology **See below selections.** | Yes | Yes |
@@ -37,7 +37,7 @@ fields in the project creation form.
 | Manifest | Downloadable Sample Manifest template **See below specifications.** | | N/A |
 | Manifest Upload | Upload section for completed above manifest. | | Yes |
 
-(### Organism):
+### <a name="organism">Organism Field</a>
 
 | Organism |
 |----------------------------|
