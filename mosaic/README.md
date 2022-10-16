@@ -24,3 +24,16 @@
   think we all know what your next Saturday night is going to look
   like - do I smell popcorn!
 
+## Mosaic API
+
+* Mosaic offers a robust Web API to be able to make changes to any
+  data which you control to allow better fine grained control to your
+  projects. The Web API allows for you to connect any data pipelines
+  you have to better serve Mosaic as the place to store, visualize,
+  and collaborate with your data. Except where specified, GET requests
+  are the only type of request that are enabled for collections.
+
+* You'll need to reach out and get API keys set up to get started.  In
+  the mean time head over and check out the
+  [CDDRC Mosaic API documentation](https://cddrc.utah.edu/api/) to see
+  all the cool things you can do!
