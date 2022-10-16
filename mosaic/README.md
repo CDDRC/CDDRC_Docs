@@ -2,13 +2,13 @@
 
 ## Getting Started
 
-* The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [https://cddrc.utah.edu/#/signup](CDDRC Mosaic sign-up page).
-* Next check-out the '[https://cddrc.utah.edu/#/get-started](Getting Started)' page in the Mosaic documentation.
-* Finally, you can explore the full set of Mosaic docs at [https://docs.frameshift.io/mosaic.html](https://docs.frameshift.io/mosaic.html).
+* The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup).
+* Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started)] page in the Mosaic documentation.
+* Finally, you can explore the full set of Mosaic docs at [Frameshift Mosaic documentation server](https://docs.frameshift.io/mosaic.html).
 
 ## Accounts
 
-* [https://cddrc.utah.edu/#/signup](Set up a CDDRC Mosaic account)
+* To set up a new account, please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup).
 * To change your CDDRC Mosaic password, navigate to 'Account' (top right corner of page) -> '[User Settings](https://cddrc.utah.edu/#/account/settings)'
 
 ## Data Access
