@@ -1,6 +1,6 @@
 [CDDRC Docs](../README.md) - CDDRC Mosaic Documentation
 
-## Getting with CDDRC Mosaic Started
+## Getting Started with CDDRC Mosaic
 
 * The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup).
 * Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started) page in the Mosaic documentation.

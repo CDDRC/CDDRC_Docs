@@ -2,9 +2,12 @@
 
 # CDDRC Project Creation Documentation.
 
-## Projects
+To create a project go to
+[RedCap CDDRC project creation page](https://redcap.link/cddrc) and
+fill out the form.  The tables below provide details on each of the
+fields in the project creation form.
 
-This [link](https://redcap.link/cddrc) will take you to the current CDDRC Project creation web page.
+## Projects
 
 | Field Label | Description | Becomes Mosaic Project Attribute | Required |
 |-------------|-------------|----------|-------|
@@ -13,7 +16,7 @@ This [link](https://redcap.link/cddrc) will take you to the current CDDRC Projec
 | Set project privacy level to protected. | Set to `True` if you do *not* want your project publicly accessible. | | No (default: False) |
 | Lab | Governing lab PI. | Yes | Yes |
 | Institution | Lab and projects originating from this institution. | Yes | Yes |
-| Organism | Organism under study. **See below selections.** | Yes | Yes |
+| Organism | Organism under study. **[See below selections](#Organism).** | Yes | Yes |
 | Organism Name | If the above option is 'Other', specify the organism here.| | Yes* |
 | Reference Genome | Organism reference genome **See below selections.** | Yes | Yes |
 | Experiment Type | Experiment methodology **See below selections.** | Yes | Yes |
@@ -34,7 +37,7 @@ This [link](https://redcap.link/cddrc) will take you to the current CDDRC Projec
 | Manifest | Downloadable Sample Manifest template **See below specifications.** | | N/A |
 | Manifest Upload | Upload section for completed above manifest. | | Yes |
 
-### Organism:
+(### Organism):
 
 | Organism |
 |----------------------------|
