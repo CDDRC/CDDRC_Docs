@@ -16,9 +16,9 @@ fields in the project creation form.
 | Set project privacy level to protected. | Set to `True` if you do *not* want your project publicly accessible. | | No (default: False) |
 | Lab | Governing lab PI. | Yes | Yes |
 | Institution | Lab and projects originating from this institution. | Yes | Yes |
-| Organism | Organism under study. **[See below selections](#organism).** | Yes | Yes |
+| Organism | Organism under study. **[See 'Organism Table' below](#organism).** | Yes | Yes |
 | Organism Name | If the above option is 'Other', specify the organism here.| | Yes* |
-| Reference Genome | Organism reference genome **See below selections.** | Yes | Yes |
+| Reference Genome | Organism reference genome **[See 'Reference Genome' Table below](#reference-genome)** | Yes | Yes |
 | Experiment Type | Experiment methodology **See below selections.** | Yes | Yes |
 | Other Experiment Type |If the above option is 'Other', specify the type here.| | Yes* |
 | Experiment Platform | Platform used to generate experiment type. **See below selections.** | Yes | Yes |
@@ -53,15 +53,15 @@ fields in the project creation form.
 | Zebrafish |
 | ***Other*** |
 
-### Reference:
+### <a name='reference-genome'>Reference Genome Field</a>
 
-| Reference Genome |
-|------------------|
-| GRCh37 |
-| GRCh38 |
-| GRCz11 |
-| GRCm39. |
-| ***unsupported*** |
+| Reference Genome | Description |
+|------------------|-------------|
+| GRCh37 | Human build 37 |
+| GRCh38 | Human build 38 |
+| GRCz11 | Zebrafish build 11 |
+| GRCm39 | Mouse build 39 |
+| ***unsupported*** | Other builds unsupported, [contact us](mailto:cddrc@lists.utah.edu) |
 
 ### Experiment Type Selection:
 
