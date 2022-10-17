@@ -15,9 +15,7 @@ Mosaic is a collaborative platform for organizing, visualizing, and understandin
 
 ## How do I get started using CDDRC Mosaic?
 
-* The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup).
-* Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started) page in the Mosaic documentation.
-* Finally, you can explore the full set of Mosaic docs at [Frameshift Mosaic documentation server](https://docs.frameshift.io/mosaic.html).
+The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup). Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started) page in the Mosaic documentation. Finally, you can explore the full set of Mosaic docs at [Frameshift Mosaic documentation server](https://docs.frameshift.io/mosaic.html).
 
 ## Dose Mosaic have an API?
 
