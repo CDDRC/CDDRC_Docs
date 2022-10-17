@@ -22,7 +22,7 @@ The first step to getting started with Mosaic is to set up an account.  Please f
 To create a new project go to
 [RedCap CDDRC project creation page](https://redcap.link/cddrc) and
 fill out the form.  The tables below provide details on each of the
-fields in the project creation form.  You can learn more about that form on the on our ['Project Setup' documentation page](/cddrc_docs/project_setup/)
+fields in the project creation form.  You can learn more about that form on the on our ['Project Setup' documentation page](/project_setup/)
 
 ## Dose Mosaic have an API?
 
