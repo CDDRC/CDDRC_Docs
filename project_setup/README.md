@@ -67,8 +67,8 @@ fields in the project creation form.
 
 | Experiment Type             	| Description                  |
 |-------------------------------|------------------------------|
-| CGH                         	|                              |
-| ChiP-on-chip                	|                              |
+| CGH                         	| [Comparative genomic hybridization](https://en.wikipedia.org/wiki/Comparative_genomic_hybridization) |
+| ChiP-on-chip                	| [ChIP-on-chip](https://en.wikipedia.org/wiki/ChIP-on-chip) is a technology that combines chromatin immunoprecipitation ('ChIP') with DNA microarray ("chip"). |
 | ChIP-Seq                    	|                              |
 | Directional mRNA Sequencing 	|                              |
 | DNA Methylation Analysis    	|                              |
