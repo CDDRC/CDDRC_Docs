@@ -17,6 +17,13 @@ Mosaic is a collaborative platform for organizing, visualizing, and understandin
 
 The first step to getting started with Mosaic is to set up an account.  Please fill in the form on the [CDDRC Mosaic sign-up page](https://cddrc.utah.edu/#/signup). Next check-out the ['Getting Started'](https://cddrc.utah.edu/#/get-started) page in the Mosaic documentation. Finally, you can explore the full set of Mosaic docs at [Frameshift Mosaic documentation server](https://docs.frameshift.io/mosaic.html).
 
+## How do I setup a new project in Mosiac?
+
+To create a new project go to
+[RedCap CDDRC project creation page](https://redcap.link/cddrc) and
+fill out the form.  The tables below provide details on each of the
+fields in the project creation form.  You can learn more about that form on the [Project setup page](/project_setup/index.html)
+
 ## Dose Mosaic have an API?
 
 Yes, Mosaic offers a robust Web API to be able to make changes to any
