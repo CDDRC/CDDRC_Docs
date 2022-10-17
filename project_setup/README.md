@@ -21,7 +21,7 @@ fields in the project creation form.
 | Reference Genome | Organism reference genome **[See 'Reference Genome' Table below](#reference-genome)** | Yes | Yes |
 | Experiment Type | Experiment methodology **[See 'Experiment Type Table' below](#experiment-type)** | Yes | Yes |
 | Other Experiment Type |If the above option is 'Other', specify the type here.| | Yes* |
-| Experiment Platform | Platform used to generate experiment type. **See below selections.** | Yes | Yes |
+| Experiment Platform | Platform used to generate experiment type. **[See 'Experiment Platform Table' below](#experiment-platform)** | Yes | Yes |
 | Other Experiment Platform |If the above option is 'Other', specify the type here.| | Yes* |
 | Sequence Library Protocol Description | Allowed additional notes for sequence protocol. | Yes | No |
 | Sequence Source | Where your project specific sequence was generated. | Yes | No |
@@ -34,10 +34,10 @@ fields in the project creation form.
 | Submitter First Name | First name of person submitting project request.| Yes | Yes |
 | Submitter Last Name | Last name of person submitting project request.| Yes | Yes |
 | Submitter Email | Email of person submitting project request.| Yes | Yes |
-| Manifest | Downloadable Sample Manifest template **See below specifications.** | | N/A |
+| Manifest | Downloadable Sample Manifest template **[See 'Manifest Fields Table' below](#manifest)** | | N/A |
 | Manifest Upload | Upload section for completed above manifest. | | Yes |
 
-### <a name="organism">Organism Field</a>
+### <a name="organism">Organism Selector</a>
 
 | Organism |
 |----------------------------|
@@ -88,46 +88,44 @@ fields in the project creation form.
 | Transcriptome sequencing      |                              |
 | ***Other***                   |                              |
 
-### Experiment Platform Selection:
+### <a name='experiment-platform'>Experiment Platform Selector</a>
 
-| Experiment Platform |
-|-----------------|
-| Affymetrix Microarray |
-| Agilent 1-color Microarray |
-| Agilent 2-color Microarray |
-| Functional Gene Analysis |
+| Experiment Platform            |
+|--------------------------------|
+| Affymetrix Microarray          |
+| Agilent 1-color Microarray     |
+| Agilent 2-color Microarray     |
+| Functional Gene Analysis       |
 | Illumina HiSeq 4000 Sequencing |
-| Ion Torrent |
-| Life-SOLiD |
-| Roche-454 |
-| ***Other*** |
+| Ion Torrent                    |
+| Life-SOLiD                     |
+| Roche-454                      |
+| ***Other***                    |
 
 
-## Manifest
+## <a name='manifest'>Manifest Fields</a>
 
 Currently available manifest fields. 
 
-| Manifest Column Name | Becomes Mosaic Sample Attribute| Required | 
-|----------------------|--------------------------------| ---------|
-| Sample ID  | Yes | **Yes** |
-| Individual ID  | Yes | No |
-| Internal ID | Yes | No |
-| Stage | Yes | No |
-| Treatment | Yes | No |
-| Treatment Group | Yes | No |
-| Gene Name | Yes | No |
-| Ensembl ID  | Yes | No |
-| Molecule Type   | Yes | No |
-| Sample Volume   | Yes |No |
-| Organ   | Yes | No |
-| Tissue  | Yes | No |
-| Tissue Condition | Yes | No |
-| Dose    | Yes | No |
-| Genotype/Genetic Modification | Yes | No |
-| Phenotype   | Yes | No |
-| Expression Group | Yes | No |
-| Analysis Group | Yes | No |
-| Replica Number | Yes | No |
-| Note | Yes | No |
-
-
+| Manifest Column Name          | Becomes Mosaic Sample Attribute| Required | 
+|-------------------------------|--------------------------------| ---------|
+| Sample ID                     | Yes                            | **Yes**  |
+| Individual ID                 | Yes                            | No       |
+| Internal ID                   | Yes                            | No       |
+| Stage                         | Yes                            | No       |
+| Treatment                     | Yes                            | No       |
+| Treatment Group               | Yes                            | No       |
+| Gene Name                     | Yes                            | No       |
+| Ensembl ID                    | Yes                            | No       |
+| Molecule Type                 | Yes                            | No       |
+| Sample Volume                 | Yes                            | No       |
+| Organ                         | Yes                            | No       |
+| Tissue                        | Yes                            | No       |
+| Tissue Condition              | Yes                            | No       |
+| Dose                          | Yes                            | No       |
+| Genotype/Genetic Modification | Yes                            | No       |
+| Phenotype                     | Yes                            | No       |
+| Expression Group              | Yes                            | No       |
+| Analysis Group                | Yes                            | No       |
+| Replica Number                | Yes                            | No       |
+| Note                          | Yes                            | No       |
