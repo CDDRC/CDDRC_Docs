@@ -21,8 +21,6 @@ Mosaic is a collaborative platform for organizing, visualizing, and understandin
 
 ## Dose Mosaic have an API?
 
-## Mosaic API
-
 Yes, Mosaic offers a robust Web API to be able to make changes to any
 data which you control to allow better fine grained control to your
 projects. The Web API allows for you to connect any data pipelines
