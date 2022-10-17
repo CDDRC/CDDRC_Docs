@@ -67,15 +67,15 @@ fields in the project creation form.
 
 | Experiment Type             	| Description                  |
 |-------------------------------|------------------------------|
-| CGH                         	| [Comparative genomic hybridization](https://en.wikipedia.org/wiki/Comparative_genomic_hybridization) |
+| CGH                         	| [Comparative genomic hybridization](https://en.wikipedia.org/wiki/Comparative_genomic_hybridization) is a molecular cytogenetic method for analysing copy number variations (CNVs) relative to ploidy level in the DNA of a test sample compared to a reference sample, without the need for culturing cells. |
 | ChiP-on-chip                	| [ChIP-on-chip](https://en.wikipedia.org/wiki/ChIP-on-chip) is a technology that combines chromatin immunoprecipitation ('ChIP') with DNA microarray ("chip"). |
-| ChIP-Seq                    	|                              |
+| ChIP-Seq                    	| [ChIP-sequencing](https://en.wikipedia.org/wiki/ChIP_sequencing), is a method used to analyze protein interactions with DNA.|
 | Directional mRNA Sequencing 	|                              |
 | DNA Methylation Analysis    	|                              |
 | Exon                        	|                              |
 | Gene Expression             	|                              |
 | Genomic DNA Sequencing      	|                              |
-| Hi-C                        	|                              |
+| Hi-C                        	| [Hi-C](https://en.wikipedia.org/wiki/Hi-C_(genomic_analysis_technique)) is a high-throughput genomic and epigenomic technique first described in 2009 by Lieberman-Aiden et al. to capture chromatin conformation. |
 | HybMap                      	|                              |
 | miRNA                       	|                              |
 | Mononucleosome sequencing   	|                              |
