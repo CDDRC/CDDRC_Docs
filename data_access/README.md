@@ -2,21 +2,8 @@
 
 # Data Access
 
-## Header 1
+## How to download data files for a project.
 
-* [Link1](#)
-* [Link2](#)
-* [Link3](#)
+<img src="download_file.png">
 
-## Header 2
-
-* [Link1](#)
-* [Link2](#)
-* [Link3](#)
-
-## Header 3
-
-* [Link1](#)
-* [Link2](#)
-* [Link3](#)
 
