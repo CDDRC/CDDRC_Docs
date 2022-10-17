@@ -19,7 +19,7 @@ fields in the project creation form.
 | Organism | Organism under study. **[See 'Organism Table' below](#organism).** | Yes | Yes |
 | Organism Name | If the above option is 'Other', specify the organism here.| | Yes* |
 | Reference Genome | Organism reference genome **[See 'Reference Genome' Table below](#reference-genome)** | Yes | Yes |
-| Experiment Type | Experiment methodology **See below selections.** | Yes | Yes |
+| Experiment Type | Experiment methodology **[See 'Experiment Type Table' below](#experiment-type)** | Yes | Yes |
 | Other Experiment Type |If the above option is 'Other', specify the type here.| | Yes* |
 | Experiment Platform | Platform used to generate experiment type. **See below selections.** | Yes | Yes |
 | Other Experiment Platform |If the above option is 'Other', specify the type here.| | Yes* |
@@ -53,7 +53,7 @@ fields in the project creation form.
 | Zebrafish |
 | ***Other*** |
 
-### <a name='reference-genome'>Reference Genome Field</a>
+### <a name='reference-genome'>Reference Genome Selector</a>
 
 | Reference Genome | Description |
 |------------------|-------------|
@@ -63,30 +63,30 @@ fields in the project creation form.
 | GRCm39 | Mouse build 39 |
 | ***unsupported*** | Other builds unsupported, [contact us](mailto:cddrc@lists.utah.edu) |
 
-### Experiment Type Selection:
+### <a name='experiment-type'>Experiment Type Selector</a>
 
-| Experiment Type |
-|-----------------|
-| CGH |
-| ChiP-on-chip |
-| ChIP-Seq |
-| Directional mRNA Sequencing |
-| DNA Methylation Analysis |
-| Exon |
-| Gene Expression |
-| Genomic DNA Sequencing |
-| Hi-C |
-| HybMap |
-| miRNA |
-| Mononucleosome sequencing |
-| Morpholino analysis |
-| mRNA Sequencing |
-| single cell RNA-seq |
-| Small mRNA Sequencing |
-| SNP |
-| Targeted Genomic Resequencing |
-| Transcriptome sequencing |
-| ***Other*** |
+| Experiment Type             	| Description                  |
+|-------------------------------|------------------------------|
+| CGH                         	|                              |
+| ChiP-on-chip                	|                              |
+| ChIP-Seq                    	|                              |
+| Directional mRNA Sequencing 	|                              |
+| DNA Methylation Analysis    	|                              |
+| Exon                        	|                              |
+| Gene Expression             	|                              |
+| Genomic DNA Sequencing      	|                              |
+| Hi-C                        	|                              |
+| HybMap                      	|                              |
+| miRNA                       	|                              |
+| Mononucleosome sequencing   	|                              |
+| Morpholino analysis         	|                              |
+| mRNA Sequencing             	|                              |
+| single cell RNA-seq         	|                              |
+| Small mRNA Sequencing       	|                              |
+| SNP                         	|                              | 
+| Targeted Genomic Resequencing |                              |
+| Transcriptome sequencing      |                              |
+| ***Other***                   |                              |
 
 ### Experiment Platform Selection:
 
